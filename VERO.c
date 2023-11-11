@@ -31,6 +31,5 @@ printf("%f + %f = %f",num1, num2, result);
     
 return 0;
 
-//pop
 
 }
