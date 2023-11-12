@@ -1,6 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("derek is the boss    ");
-    printf("entr");
-return 0;
+    int a = 23443434;
+    printf("%d",a);
 }
