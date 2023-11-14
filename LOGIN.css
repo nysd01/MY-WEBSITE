@@ -34,7 +34,7 @@ button {
     width: 100%;
 }
 button:hover {
-    background-color: #45a049;
+    background-color: #2a8739;
 }
 a {
     color: #000;
@@ -50,6 +50,6 @@ h1 a{
     color:rgb(70, 5, 113); 
     
 }
-h1 a:hover{
-    color: #0b0c5c;
+ a:hover{
+    color: #410fd6;
 }
