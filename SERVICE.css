@@ -75,4 +75,11 @@ footer a {
    border-color: rgb(168, 215, 13);
    border-radius: 80px;
   }
- 
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(24, 218, 66);
+}
+
